@@ -1,0 +1,123 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Lato", sans-serif;
+  background-color: #94C973;
+
+}
+
+h1 {
+  color: #2F5233;
+}
+
+h2 {
+  color: #2F5233;
+  text-align: center;
+}
+
+p {
+  color: #2F5233;
+}
+
+.left-section {
+  width: 250px;
+  height: auto;
+  border: 2px solid black;
+}
+
+#logo {
+  width: inherit;
+  width: 200px;
+}
+
+.side-menu {
+  border-top: 2px solid black;
+  display: flex;
+  flex-direction: column;
+}
+/*
+.topnav {
+  height: 25px;
+  border: 2px solid black;
+  margin-left: 20px;
+  display: flex;
+}
+*/
+.page-wrapper {
+  display: flex;
+  flex-direction: row;
+}
+
+.nav-title {
+  width: 525px;
+  display: flex;
+  justify-content: space-around;
+  flex-direction: column;
+  margin-right: 100px;
+  margin-left: 450px;
+}
+
+.title-section {
+  height: 100px;
+  border: 2px solid black;
+  margin-left: 200px;
+  width: 200px;
+}
+
+#tab1 {
+  font-size: 20px;
+  text-align: left;
+  margin-left: 5px;
+}
+
+#tab {
+  font-size: 20px;
+  border-left: 2px solid black;
+  margin-left: 20px;
+  padding-left: 5px;
+}
+
+.settings-section {
+  font-size: 20px;
+  text-align: center;
+  margin-left: 70px;
+}
+
+.buttonwrapper{
+  text-align: center;
+}
+
+
+.button {
+  position: absolute;
+  top: 50%;
+}
+
+
+.indexMenu {
+  overflow: hidden;
+  background-color: rgb(45, 83, 12);
+  padding: 20px 20px;
+}
+
+.indexMenu a {
+
+  color: #f2f2f2;
+  padding: 25px 25px;
+  text-decoration: none;
+  font-size: 20px;
+  text-align: center;
+
+}
+
+.indexMenu a:hover {
+  background-color: rgb(6, 101, 95);
+  color: rgb(156, 240, 157);
+}
+
+.indexMenu a.active {
+  background-color: #04AA6D;
+  color: rgb(79, 211, 147);
+}
+
+
