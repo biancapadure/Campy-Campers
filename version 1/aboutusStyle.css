@@ -1,0 +1,46 @@
+/*
+
+       Student Name:Jean Aristide Ndjomo Etoundi
+     Student Number: 19014614
+          Unit Name:Team Working
+          Unit Code: H178 34
+       Project Name: Campy Camper
+            Version: V1
+               Date: 11/03/2022
+
+
+*/
+ul{
+	display: flex;
+	list-style: none;
+	padding-top: 20px;
+
+}
+
+li a{
+	text-decoration: none;
+	text-align: center;
+	padding-right: 20px;
+	color: black;
+}
+
+img{
+	 padding-right: 300px;
+}
+ h2{
+ 	 text-align: center;
+ }
+
+#loginPageHeaderContent{
+	display: flex;
+	padding: 20px;
+}
+
+#loginPageHeaderContent img{
+	 padding-right: 500px;
+
+}
+
+
+
+
