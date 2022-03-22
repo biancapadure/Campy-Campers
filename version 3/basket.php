@@ -68,6 +68,34 @@
     <a href="pay.php"><button>Click to pay</button></a>
 
     </div>
+	
+	<footer>
+        <div class="footer">
+            <div class="inner_footer">
+                <div class="logo_container">
+                    <img src="Images/logo 3.png">
+
+                </div>
+                <div class="footer_third">
+                    <h1>Need Help?</h1>
+                    <a href="#">Terms &amp; Conditions</a>
+                    <a href="#">Privacy Policy</a>
+                </div>
+
+                <div class="footer_third">
+                    <h1>More</h1>
+                    <a href="#">About Us</a>
+                    <a href="#">Other Sites</a>
+                </div>
+
+                <div class="footer_third">
+                    <h1></h1>
+                    <a href="#">CampyCampers©</a>
+                </div>
+            </div>
+        </div>
+    </footer>
+	
     <script src="script.js"></script>
 </body>
 </html>
