@@ -10,13 +10,7 @@ CREATE TABLE CampyCampersStock (
 
 
 /* Insert Data in table CampyCampersStock*/
-  INSERT INTO CampyCampersStock(stockID, stockDescription, Price, quantityStock, imgLink)
-    VALUES ("jacket01", "jacket for women", 100, 30,"images/jacket01.jpg");
-INSERT INTO CampyCampersStock(stockID, stockDescription, Price, quantityStock, imgLink)
-    VALUES ("jacket02", "jacket for men", 100, 30,"images/jacket02.jpg");
-INSERT INTO CampyCampersStock(stockID, stockDescription, Price, quantityStock, imgLink)
-    VALUES ("jacket03", "jacket unisex", 150, 30,"images/jacket03.jpg");
-
+  
 INSERT INTO CampyCampersStock(stockID, stockDescription, Price, quantityStock, imgLink)
     VALUES ("hat01", "Sun protective Waterproof hat   ", 85, 30,"images/hat01.jpg");
 INSERT INTO CampyCampersStock(stockID, stockDescription, Price, quantityStock, imgLink)
@@ -40,12 +34,7 @@ INSERT INTO CampyCampersStock(stockID, stockDescription, Price, quantityStock, i
     VALUES ("table03", "Foldable Wooden Camping table ", 30, 20,"images/table03.jpg");
 
     
-INSERT INTO CampyCampersStock(stockID, stockDescription, Price, quantityStock, imgLink)
-    VALUES ("shoes01", "Ankle rain boots", 50, 50,"images/shoes01.jpg");
-INSERT INTO CampyCampersStock(stockID, stockDescription, Price, quantityStock, imgLink)
-    VALUES ("shoes02", "Waterproof Hiking shoes", 100, 50,"images/shoes02.jpg");
-INSERT INTO CampyCampersStock(stockID, stockDescription, Price, quantityStock, imgLink)
-    VALUES ("shoes03", "Warm waterproof hiking shoes ", 150, 60,"images/shoes03.jpg");
+
 
     
 INSERT INTO CampyCampersStock(stockID, stockDescription, Price, quantityStock, imgLink)
