@@ -61,7 +61,8 @@
         echo '<tr>'; // html table row tag
         echo '<td>'.$Row['stockDescription'].'</td>'; // html Table detail tags
         echo '<td>'.$Row['Price'].'</td>';
-        echo '<td>'.'<img src="'.$Row['imglink'].'" alt="image of table" />'.'</td>';
+        $imglink=$Row['imgLink'];
+        echo '<td>'.'<img id="image1" src="'.$imglink.'"alt="image of table"/>'.'</td>';
         echo '<td>'.'<input type = "submit" name="your_button_name" value = "Add to Basket">'.'</td>';
         echo '</tr>';
         }
