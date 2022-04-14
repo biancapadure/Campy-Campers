@@ -1,8 +1,8 @@
 <!-- 
     Version: 1
-    Created by: Bianca Padure
-    Student number: 19015005
-    Date: 10 March 2022
+    Created by: Jasiu Podpora
+    Student number: 19009188
+    Date: 14 April 2022
  -->
 <!DOCTYPE html>
 <html lang="en">
@@ -30,9 +30,9 @@
     <br>
 
     <div id="bestSellerItemsContainer">
-    <img class="bestSellerItem" src="img/placeholder.png">
-    <img class="bestSellerItem" src="img/placeholder.png">
-    <img class="bestSellerItem" src="img/placeholder.png">
+    <img class="bestSellerItem" src="images/hat01.jpg">
+    <img class="bestSellerItem" src="images/tent01.jpg">
+    <img class="bestSellerItem" src="images/bag02.jpg">
     </div>
 
     </div>
