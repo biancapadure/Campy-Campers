@@ -30,9 +30,9 @@
     <br>
 
     <div id="bestSellerItemsContainer">
-    <img class="bestSellerItem" src="images/hat01.jpg">
-    <img class="bestSellerItem" src="images/tent01.jpg">
-    <img class="bestSellerItem" src="images/bag02.jpg">
+    <img class="bestSellerItem" src="img/hat01.jpg">
+    <img class="bestSellerItem" src="img/tent01.jpg">
+    <img class="bestSellerItem" src="img/bag02.jpg">
     </div>
 
     </div>
